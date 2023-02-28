@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-echo"School"
-echo"The school is open!"
-=======
-#!/bin/bash
-echo "The school is open!"
->>>>>>> main
+The school is open
